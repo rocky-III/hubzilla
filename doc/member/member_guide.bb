@@ -71,7 +71,7 @@ See Also
 
 [zrl=[baseurl]/help/AdvancedSearch]Advanced Searching[/zrl]
 
-[h3]Account Permission Roles[/h3]
+[h3]Channel Permission Roles[/h3]
 
 
 [h4]Social[/h4]
